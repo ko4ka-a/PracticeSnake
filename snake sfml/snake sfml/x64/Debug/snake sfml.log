@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\User\Desktop\snake\snake sfml\snake sfml\main.cpp(107,15): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\Desktop\snake\snake sfml\snake sfml\main.cpp(168,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\snake\snake sfml\snake sfml\main.cpp(168,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\snake\snake sfml\snake sfml\main.cpp(172,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\snake\snake sfml\snake sfml\main.cpp(172,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  snake sfml.vcxproj -> C:\Users\User\Desktop\snake\snake sfml\x64\Debug\snake sfml.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
